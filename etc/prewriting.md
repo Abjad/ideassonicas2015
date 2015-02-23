@@ -169,3 +169,31 @@ materializing?
 
 Do the new technologies allow us to accelerate the rate at which we establish
 new collaborations?
+
+###
+
+Music notation and programming languages are complex symbolic representations
+of things. So why the hell is it that writing code together works marvellously
+well while writing score does not? Does some difference inhere in the
+representations themselves? Are these artifacts of history or society? How will
+we know the answers to these questions? And are not we now only at the doorstep
+of being able to write score together?
+
+Can we extrapolate from CG animation? Somebody renders the skeleton, somebody
+else the hair, somebody else shadows. Does a sufficient model of animation
+exist to enable all of this?
+
+The comparison to Photoshop may be helpful. Lone Photoshop editor?
+Collaborative Photoshop editing?
+
+Is it that we simply have no model of what composition is?
+
+The extent to which a technology allows you to create a parametric model of
+something is exactly the extent to which a technology allows you to
+collaborate.
+
+Is it also a factor that there are so few people in the culture who are skilled
+in the creation of music notation?
+
+Why is it the case that the discussion on the LilyPond list is about how to
+make the program do stuff rather than how to make music that does stuff?
