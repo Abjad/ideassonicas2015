@@ -99,10 +99,73 @@ a Bruno Latour sense the model becomes an actor. Is this what Chaya and Steve
 are getting at when they advise young composers to ask musical materials what
 musical materials want.
 
-
 ###
 
 Composers collaborate but it is frequently hidden: it is a problem that Hans
 Zimmer is actually thirty people. In the visual arts the idea of the studio of
-helpers was largely accepted. The same with architecture. But somehow not in
-music.
+helpersiswas largely accepted. The same with architecture. But somehow not in
+music. Why do not composition studios work the way that the studios of
+architects work? Or painters? Or sculptors? All these situations are
+works-for-hire.
+
+Note, however, that we have a pedagogical model in music composition: "I study
+in the studio of so-and-so." So pedagogical lineage exists in composition. But
+this seems not to translate into the same types of collaborative work as in
+many of the other arts.
+
+###
+
+PROMPT: "The agents of the humanities, sciences, engineering and the arts
+inhabit this context facing a dilemma: to perceive it as an overwhelming
+network that communicates them with an extremely wide community of artists from
+different areas of knowledge, or take it as an area for dialogue and relevant
+transdisciplinary collaboration."
+
+Another false dichotomy?
+
+We have used interconnectivity through social media as a way to move deeper
+into our existing disciplines. Why should this be the case? Due, undoubtedly,
+to existing social and economic realities.
+
+Is the network overhwhelming? We become aware of the large number of our
+potential competitors. But possibly also the large number of our potential
+collaborators.
+
+PROMPT: "The scenario also shows possible solutions: limit the scope of this
+context by creating ephemeral ties, or exploit it in order to increase the
+ability to reconfigure collaboration, based on solidarity and resources
+provided by open source technology and communication virtual platforms."
+
+Are we working together? Or are we a tower of Babel?
+
+Does this come from a social concern? Will the social concerns underlying the
+question translate to the production of music? When we sit a biologist, an
+architect and a dancer in a room to solve a problem, what new insight arises?
+
+Should we address the paradigm of consulting? Has international consulting
+handed over to us a paradigm of consulting? Consulting is the dialectical
+resolution of the two terms in tension in the most recent sentence of the
+prompt, above.   
+
+A collaborative system in which people can collaborate across languages. I can
+make a bit of score, leave a note that says "fill this in", and someone else
+from another country gets an automatic translation of the "fill this in" note,
+and then supplies new material to the score. But would the machine translation
+have to go through a vendor of for-pay machine translation services? Does this
+essentially argue the case to keep all components in a system end-to-end
+open-source?
+
+Does collaborating across disciplines feel superficial? How substantial is a
+musical collaboaration with marine biologists? Creative process: hang out once,
+get drive of files, compose piece. What is the nature of a deep and fulfilling
+transdisciplinary collaboration?
+
+How much collaboration is enough collaboration? How much more collaboration do
+we need? Is anyone liberated from existing social constraints by these new
+social technologies? Are techonologies the bearers of some utopia? What does it
+mean to fantasize technology-induced increases in collaboration when the social
+and economic constraints of my reality prevent those increases from ever
+materializing?
+
+Do the new technologies allow us to accelerate the rate at which we establish
+new collaborations?
