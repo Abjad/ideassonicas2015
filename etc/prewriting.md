@@ -207,10 +207,9 @@ Romanticism.
 ### OUTLINE ###
 
 I. detailed image of the work of score creation (as we'd like to see it)
+but none of this is possible today. why not?
 
-II. but none of this is possible today.
-
-III. why not? what are the impediments that prevent us from living out this
+II. why not? what are the impediments that prevent us from living out this
 way of working they way we dream to do so? discussion of points about why not.
 
 * Collaboration requires a formalism and NO FORMAL MODEL OF COMPOSITION YET
@@ -222,5 +221,10 @@ formal model of composition? There are many fields (like GCI animation) that
 are already regularly collaborative. How many strawman arguments against
 compositional collaboration are out there?
 
-IV. what changes in the world will it take to get us closer to the way of
+* We have technologies that communicate to us that composition is a solitary
+enterprise. An example is the way that Sibelius implemented a type of
+"collaboration" that amounted to producing a score in isolation and then
+sharing it with others only after the work was done.
+
+III. what changes in the world will it take to get us closer to the way of
 working that we dream? answer the question.
