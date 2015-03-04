@@ -1,8 +1,8 @@
 Prewriting
 ==========
 
-*The hidden collaborative history of composition: "actually, composition has
-been collaborative all along ... and we're just now noticing the fact."* Ways
+**The hidden collaborative history of composition: "actually, composition has
+been collaborative all along ... and we're just now noticing the fact."** Ways
 in which either music or composition are already collaborative. Ways in which
 composers exist in ecologies of production. The work is fundamentally
 collaborative. The rationalist impulse of the 20th century got excited about
