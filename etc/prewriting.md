@@ -213,5 +213,14 @@ II. but none of this is possible today.
 III. why not? what are the impediments that prevent us from living out this
 way of working they way we dream to do so? discussion of points about why not.
 
+* Collaboration requires a formalism and NO FORMAL MODEL OF COMPOSITION YET
+EXISTS. Why is there yet no formal model of composition? Are we suspicious of a
+formal model of composition? What is the meaning of Goebel's screed about
+"(Jewish) academic formalism"? Are there assumptions about a (19th-century)
+concept of expression that still operate and prevent the development of a
+formal model of composition? There are many fields (like GCI animation) that
+are already regularly collaborative. How many strawman arguments against
+compositional collaboration are out there?
+
 IV. what changes in the world will it take to get us closer to the way of
 working that we dream? answer the question.
