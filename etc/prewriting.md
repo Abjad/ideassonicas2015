@@ -170,7 +170,7 @@ materializing?
 Do the new technologies allow us to accelerate the rate at which we establish
 new collaborations?
 
-###
+### OTHER ###
 
 Music notation and programming languages are complex symbolic representations
 of things. So why the hell is it that writing code together works marvellously
@@ -197,3 +197,21 @@ in the creation of music notation?
 
 Why is it the case that the discussion on the LilyPond list is about how to
 make the program do stuff rather than how to make music that does stuff?
+
+### 2015-03-04 ###
+
+We're supposed to treat technologies like they're transparent. Our discussion
+of "automation" revealed how entangled the concept was with a sentiment of
+Romanticism.
+
+### OUTLINE ###
+
+I. detailed image of the work of score creation (as we'd like to see it)
+
+II. but none of this is possible today.
+
+III. why not? what are the impediments that prevent us from living out this
+way of working they way we dream to do so? discussion of points about why not.
+
+IV. what changes in the world will it take to get us closer to the way of
+working that we dream? answer the question.
