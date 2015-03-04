@@ -1,15 +1,15 @@
 Prewriting
 ==========
 
-Ways in which either music or composition are already collaborative. Ways in
-which composers exist in ecologies of production. the work is fundamentally
-collaboration. The rationalist impulse of the 20th century got excited about
+*The hidden collaborative history of composition: "actually, composition has
+been collaborative all along ... and we're just now noticing the fact."* Ways
+in which either music or composition are already collaborative. Ways in which
+composers exist in ecologies of production. The work is fundamentally
+collaborative. The rationalist impulse of the 20th century got excited about
 changing that with the advent of electroacoustic music. That is now passed and
 we have returned to a present moment where composition is inherently
-collaborative.
-
-The advent of electroacoustic music is already collaborative between composers
-and engineers.
+collaborative. The advent of electroacoustic music is already collaborative
+between composers and engineers.
 
 Putting an intermediate graphic object between people is inherently
 collaboration. A graphic object destined for interpretation over even vast
