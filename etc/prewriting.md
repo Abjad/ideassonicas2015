@@ -27,6 +27,10 @@ thought that there's not a historically constant ontology of the musical work.
 Is the work a repository that conveys authorship? Or is the work an artifact
 that exists in the musical or cultural ecology?)
 
+Has composition in some senses always been a type of collaboration "with
+oneself"? We assume that collaboration is a process that definitionally
+involves more than one person. But is this true?
+
 ### RESPONSES TO PROMPT ###
 
 PROMPT: "Global interconnectedness and its tools reveal endless positions on
@@ -211,6 +215,20 @@ our dream. This is the way we dream of doing our work. But none of this is
 possible today. Why not? (Things that may be included: the image of Renaissance
 studio ...)
 
+* Do we reference workflows from HCI (human-computer interaction)?
+
+* We visualize our work intensively as we go. (Though we don't believe in
+visualization as an end in itself. We also note Roger Reynold's idea of
+different "consideration aids" that help us reflect on our work as we go. Which
+"consideration aids" do we currently have available to help us as we work? And
+which do we need to develop in future.)
+
+* Instant distribution. Every day as we work each of the individual
+contributions that we make to the shared work of a single score become
+available to all of our collaborators at once.
+
+* The work of rich variation. 
+
 II. What are the impediments that prevent us from working the way we want to
 work?
 
@@ -231,6 +249,9 @@ sharing it with others only after the work was done.
 * Do artists bristle (on some fundamental level) at any "division of labor" in
 the artistic process. We see Godard as a single creative auteur. But why? When
 there were hundreds of people working together with Godard on his films.
+
+* Do we attack precomposition? Do composers view "consideration aids" as
+outside the act of composition?
 
 III. What must the world build, construct or change to move us closer to our
 dream?
