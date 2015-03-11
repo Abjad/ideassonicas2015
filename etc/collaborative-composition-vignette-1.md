@@ -1,4 +1,5 @@
 Collaborative composition vignette #1
+=====================================
 
 **Background.** The three of us are in the middle of a piece for solo guitar.
 The piece has two main sections with a hard silence in between. The total
