@@ -75,3 +75,24 @@ on the same score at the same desk so uncommon as to be historically
 negligible? Does the answer lie in a changing understanding of compositional
 collaboration over time? Or is there something inherently isolating in the work
 of composition itself?
+
+# TODO: what probably makes sense next is to elaborate a bit of the difference
+# between "production technologies" and "communication technologies" . Do that
+# first. Then ask whether new production technologies (be they Finale,
+# Sibelius, Abjad, Illustrator, Photoshop, Logic or whatever) stand to make
+# composer-to-composer collaboration more likely. Then ask whether new
+# communications technologies (email, text, social media of all sorts ... and
+# before them simply phone and fax) stand to make composer-to-composer
+# collaboration more likely. The answer to both question is probably that the
+# technologies *only marginally* (at best) stand to increase
+# composer-to-composer collaboration.
+
+# AND THEN the next step is probably to ask whether either type of new
+# technology (production or communciation) stand to increase "traditional"
+# composerly collaboration (ie, not composer-to-composer but
+# composer-to-other-type-of-collaborator). The answer is probably that the new
+# production technologies probably help create new types of music but may not
+# increase the incidence of collaboration; and the second part of the answer is
+# probably that new communications technologies definitely increase the SPEED
+# (or rate) of traditional collaboration but probably only marginally increase
+# the INCIDENCE of collaboration.
