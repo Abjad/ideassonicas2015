@@ -52,5 +52,26 @@ problems: we chose to model our music with code because code helps clarify
 complex musical relationships in our music and thereby make musical
 relationships easier to elaborate as we compose. This is not a posture that
 derives from an interest in technology. And, in fact, if a
-non-computationally-oriented way of solving our compositional probems were
+non-computationally-oriented way of solving our compositional problems were
 available we would consider it immediately.
+
+We now pause to consider the case of compositional collaboration
+transhistorically. It is striking that cases of composerly collaboration across
+the centuries bring the composer together not with other composers but with
+agents of allied disciplines. Opera joins composer, conductor, librettist,
+singers, players, an impresario, critics, marketers and a whole chain of
+financial functionaries to underwrite and the work as it is readied for stage.
+Singer / songwriter colloborations have for years [... complete example in
+similar way here ...]. And [... third example of recognizable collaborative
+relationship here ...]. But the pressing point in these (and other)
+historically recognizable examples of composerly collaboration is that the
+composer acts in conjunction not with another composer but with agents of other
+disciplines altogether. We can dub this the 'lone composer' phenomenon as a
+type of shorthand. And then we may ask why this phenomenon of the lone composer
+-- the composer writing alone at the desk but surrounded, usually later in the
+process, by agents of other disciplines -- is overwhelmingly the historical
+norm. Asked another way, what makes the image of two composers working together
+on the same score at the same desk so uncommon as to be historically
+negligible? Does the answer lie in a changing understanding of compositional
+collaboration over time? Or is there something inherently isolating in the work
+of composition itself?
