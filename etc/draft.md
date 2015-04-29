@@ -55,33 +55,32 @@ derives from an interest in technology. And, in fact, if a
 non-computationally-oriented way of solving our compositional problems were
 available we would consider it immediately.
 
-INSERT COLLABORATIVE COMPOSITION VIGNETTE #1 HERE.
+[INSERT COLLABORATIVE COMPOSITION VIGNETTE #1 HERE.]
 
-We now pause to consider the case of compositional collaboration
-transhistorically. It is striking that cases of composerly collaboration across
-the centuries bring the composer together with agents of allied disciplines but
-not with other composers (which could be desirable simply for the reason of
-enjoying each others'' company, learning from each other, and arriving at ideas
-iteratively through discussion and fruitful, articulate disagreement, in
-addition to less probable expectations of streamlined production). Opera joins
-composer, conductor, librettist, singers, players, an impresario, critics,
-marketers and a whole chain of financial functionaries to underwrite and the
-work as it is readied for stage. Singer / songwriter colloborations have for
-years toiled in moonlighting stints at hotels, knocking off song after song
-working closely together. And obviously composers have collaborated intimately
-with event curators and musical performers throughout history. But the pressing
-point in these (and other) historically recognizable examples of composerly
-collaboration is that the composer acts in conjunction not with another
-composer but with agents of other disciplines altogether. We can dub this the
-'lone composer' phenomenon as a type of shorthand. And then we may ask why this
-phenomenon of the lone composer is overwhelmingly the historical norm for
-notated, western music. Asked another way, what makes the image of two
-composers working together on the same score at the same desk so uncommon as to
-be historically negligible? Does the answer lie in a changing understanding of
-compositional collaboration over time? Or is there something inherently
-isolating in the work of composition itself?
+We now pause briefly to consider the disciplinary orientation of compositional
+collaboration. Cases of composerly collaboration overwhelmingly bring together
+the composer not with other composers but with practitioners of the other arts.
+Opera joins composer, conductor, librettist, singers, players, impresario,
+critics, marketers and a whole chain of financial functionaries to underwrite
+the work as it is readied for stage. And singer / songwriter pairs have for
+years toiled in moonlighting stints at hotels while knocking off song after
+song. But cases of two composers at the same desk working on the same score are
+almost unattested. The distinction is one of intradisciplinarity
+(composer-to-composer collaboration) as opposed to transdisciplinarity
+(composer-to-noncomposer collaboration). And we find striking in the extreme
+the commonplace presence of the latter at the almost complete expense of the
+former. Intradisciplinary composer-to-composer collaboration would seem
+attractive on its face for reasons of composers learning from each other,
+arriving at ideas iteratively through discussion and just for the simple
+pleasure of enjoying each others'' company. So what is it in composerly
+collaboration -- or in the social structures that mediate such collaboration --
+that so privileges transdisciplinarity at the expense of intradisciplinarity?
 
-INSERT COLLABORATIVE COMPOSITION VIGNETTE #2 HERE.
+A number of answers are available. Some such answers hold potential to help us
+in our work assessing the roles of new technologies in future cases of
+collaboration.
+
+[INSERT COLLABORATIVE COMPOSITION VIGNETTE #2 HERE.]
 
 In talking about the artistic potentials of new technologies, we should be
 careful to preserve and then challenge a distinction between content-creation
