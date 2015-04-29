@@ -76,7 +76,20 @@ pleasure of enjoying each others'' company. So what is it in composerly
 collaboration -- or in the social structures that mediate such collaboration --
 that so privileges transdisciplinarity at the expense of intradisciplinarity?
 
-A number of answers are available. Some such answers hold potential to help us
+A number of answers are available. A first response appeals to a notion of
+integrity in the musical work originating in its creation: the musical work is
+inherently the responsibility of a single creative mind charged with the
+success or failure of the work in all its details. The argument presupposes its
+conclusion in its premise and relies, moreoever, on assumptions of creative
+genius deriving of some prior period; we reject the argument for these reasons.
+A second response would point to the social contexts surrounding compositional
+production: though there may be no factors internal to the work of composition
+that require lone authorship, previous centuries'' historical contexts have
+*insisted* on originary requirement of the musical work (and indeed, on even
+the very notion of the musical work itself) and we are yet to shake off the
+social wants and requirements of those previous times. We are sympathetic to
+this view.
+
 in our work assessing the roles of new technologies in future cases of
 collaboration.
 
