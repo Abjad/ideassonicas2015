@@ -1,0 +1,11 @@
+What is the role of transdiscipline in contemporary art, and what do you think of the way we organize ourselves to collaborate with other artists?
+
+Collaborative work becomes transdisciplinary only to the extent to which its technologies enable creeators to abstract and fuse common concerns and representations of disciplined practices. These commonalities can be quite difficult to notice and abstract because of the way that disciplines circumscribe activity with divergent vocabularies -- for example, "keyframing" in cinema software is the same as "automation" in music production software -- but it is nonetheless possible to design tools that enable time-based media creativity broadly (Marc Downie's Field is probably the best example of an open-source software enviornment that does this).
+
+Speaking in the broadest sense about online collaborative interfaces, data, data representations, and code that processes data become the repository of the transdiscipline, as they enable interchange of human choices between domains. When used collaboratively through open-source, online communities, these enable creators to specify arbitrary relationships between and operations on flexible models of equally arbitrary artistic object representations: a Python code repository for musical creation (using Abjad) could become a multimedia project by importing a color theory library (Colour, for example).
+
+To enable Python to describe both musical notation and color theory in the same code, one need only type the following two lines of code:
+from abjad import *
+from Colour import *
+
+Collaboration is messy, and artifacts created along the way must be rehearsable, discardable, auditionable, and legible to everyone working together. By tracking continuously every change to a project, online version-controlled code repositories enable collaboration in a more rigorous and transparent way than any pervasive models of collaboration in art previously.

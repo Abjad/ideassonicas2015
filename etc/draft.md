@@ -47,7 +47,7 @@ musical score such that all events related in a musically meaningful way can be
 changed at once in response to the realizations (or imaginings) of the
 composer. This is one of the primary design imperatives of Abjad. But note that
 this sort of structural approach to modeling the relationships between entities
-in musical score derives not form new technologies but from old compositional
+in musical score derives not from new technologies but from old compositional
 problems: we chose to model our music with code because code helps clarify
 complex musical relationships in our music and thereby make musical
 relationships easier to elaborate as we compose. This is not a posture that
@@ -55,26 +55,29 @@ derives from an interest in technology. And, in fact, if a
 non-computationally-oriented way of solving our compositional problems were
 available we would consider it immediately.
 
+INSERT COLLABORATIVE COMPOSITION VIGNETTE #1 HERE.
+
 We now pause to consider the case of compositional collaboration
 transhistorically. It is striking that cases of composerly collaboration across
-the centuries bring the composer together not with other composers but with
-agents of allied disciplines. Opera joins composer, conductor, librettist,
+the centuries bring the composer together with
+agents of allied disciplines but not with other composers (which could be desirable simply for the reason of enjoying each others' company, learning from each other, and arriving at ideas iteratively through discussion and fruitful, articulate disagreement, in addition to less probable expectations of streamlined production).  Opera joins composer, conductor, librettist,
 singers, players, an impresario, critics, marketers and a whole chain of
 financial functionaries to underwrite and the work as it is readied for stage.
-Singer / songwriter colloborations have for years [... complete example in
-similar way here ...]. And [... third example of recognizable collaborative
-relationship here ...]. But the pressing point in these (and other)
-historically recognizable examples of composerly collaboration is that the
+Singer / songwriter colloborations have for years toiled in moonlighting stints at hotels, knocking off song after song working closely together. And obviously composers have collaborated intimately with event curators and musical performers throughout history. But the pressing point in these (and other) historically recognizable examples of composerly collaboration is that the
 composer acts in conjunction not with another composer but with agents of other
 disciplines altogether. We can dub this the 'lone composer' phenomenon as a
-type of shorthand. And then we may ask why this phenomenon of the lone composer
--- the composer writing alone at the desk but surrounded, usually later in the
-process, by agents of other disciplines -- is overwhelmingly the historical
-norm. Asked another way, what makes the image of two composers working together
+type of shorthand. And then we may ask why this phenomenon of the lone composer is overwhelmingly the historical
+norm for notated, western music. Asked another way, what makes the image of two composers working together
 on the same score at the same desk so uncommon as to be historically
 negligible? Does the answer lie in a changing understanding of compositional
 collaboration over time? Or is there something inherently isolating in the work
 of composition itself?
+
+INSERT COLLABORATIVE COMPOSITION VIGNETTE #2 HERE.
+
+In talking about the artistic potentials of new technologies, we should be careful to preserve and then challenge a distinction between technologies that enable communication, on the one hand, and technologies that enable content-creation, on the other. The crucial difference is that communications technologies describe what kind of messages can be sent without describing the nature of their content -- I don't need a computational object model of the English language to send a text message -- while content-creation technologies depend heavily on models of certain kinds of content, i.e. Adobe software that models books, magazines, and posters, or Abjad's model of the musical score.
+
+If our knowledge of notated compositional practice in the first fifteen years of the twenty-first century gives us any useful information, neither content-creation technologies nor communications technologies of the last fifteen years have made composer-composer collaboration any more likely, probably because they adhere unthinkingly to a split between communication and content-creation technologies. It is, after all, precisely when collaboration occurs that our distinction begins to blur, as collaborators need to communicate with each other about the content they craft together. But new social media tools haven't embedded robust models of musical notation, and new content-creation tools haven't embedded utilities for version tracking or comparison, let alone basics like user profiles that lend transparency to group work, and collaboration between workers with the same skills remains hellishly redundant. It speaks volumes of the metaphor "too many cooks in the kitchen" that one can simply imagine two cooks to meet the metaphor's requirements, and it remains a major challenge of software systems to enable similarly skilled workers to collaborate on an artifact they each have been trained to create autonomously.
 
 # TODO: what probably makes sense next is to elaborate a bit of the difference
 # between "production technologies" and "communication technologies" . Do that
@@ -86,6 +89,8 @@ of composition itself?
 # collaboration more likely. The answer to both question is probably that the
 # technologies *only marginally* (at best) stand to increase
 # composer-to-composer collaboration.
+
+INSERT COLLABORATIVE COMPOSITION VIGNETTE #2 HERE.
 
 # AND THEN the next step is probably to ask whether either type of new
 # technology (production or communciation) stand to increase "traditional"
