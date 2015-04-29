@@ -1,5 +1,5 @@
-New music, new technologies: a composers' assessment of the collaborative potential of new communication and production technologies
-====================================================================================================================================
+New music, new technologies: a composers' assessment of the collaborative potential of new content-creation and communications technologies
+===========================================================================================================================================
 
 The three of us work as both composers and technologists every day: we write
 our music in ways that are deeply informed by practices drawn from the
@@ -59,29 +59,68 @@ INSERT COLLABORATIVE COMPOSITION VIGNETTE #1 HERE.
 
 We now pause to consider the case of compositional collaboration
 transhistorically. It is striking that cases of composerly collaboration across
-the centuries bring the composer together with
-agents of allied disciplines but not with other composers (which could be desirable simply for the reason of enjoying each others' company, learning from each other, and arriving at ideas iteratively through discussion and fruitful, articulate disagreement, in addition to less probable expectations of streamlined production).  Opera joins composer, conductor, librettist,
-singers, players, an impresario, critics, marketers and a whole chain of
-financial functionaries to underwrite and the work as it is readied for stage.
-Singer / songwriter colloborations have for years toiled in moonlighting stints at hotels, knocking off song after song working closely together. And obviously composers have collaborated intimately with event curators and musical performers throughout history. But the pressing point in these (and other) historically recognizable examples of composerly collaboration is that the
-composer acts in conjunction not with another composer but with agents of other
-disciplines altogether. We can dub this the 'lone composer' phenomenon as a
-type of shorthand. And then we may ask why this phenomenon of the lone composer is overwhelmingly the historical
-norm for notated, western music. Asked another way, what makes the image of two composers working together
-on the same score at the same desk so uncommon as to be historically
-negligible? Does the answer lie in a changing understanding of compositional
-collaboration over time? Or is there something inherently isolating in the work
-of composition itself?
+the centuries bring the composer together with agents of allied disciplines but
+not with other composers (which could be desirable simply for the reason of
+enjoying each others'' company, learning from each other, and arriving at ideas
+iteratively through discussion and fruitful, articulate disagreement, in
+addition to less probable expectations of streamlined production). Opera joins
+composer, conductor, librettist, singers, players, an impresario, critics,
+marketers and a whole chain of financial functionaries to underwrite and the
+work as it is readied for stage. Singer / songwriter colloborations have for
+years toiled in moonlighting stints at hotels, knocking off song after song
+working closely together. And obviously composers have collaborated intimately
+with event curators and musical performers throughout history. But the pressing
+point in these (and other) historically recognizable examples of composerly
+collaboration is that the composer acts in conjunction not with another
+composer but with agents of other disciplines altogether. We can dub this the
+'lone composer' phenomenon as a type of shorthand. And then we may ask why this
+phenomenon of the lone composer is overwhelmingly the historical norm for
+notated, western music. Asked another way, what makes the image of two
+composers working together on the same score at the same desk so uncommon as to
+be historically negligible? Does the answer lie in a changing understanding of
+compositional collaboration over time? Or is there something inherently
+isolating in the work of composition itself?
 
 INSERT COLLABORATIVE COMPOSITION VIGNETTE #2 HERE.
 
-In talking about the artistic potentials of new technologies, we should be careful to preserve and then challenge a distinction between technologies that enable communication, on the one hand, and technologies that enable content-creation, on the other. The crucial difference is that communications technologies describe what kind of messages can be sent without describing the nature of their content -- I don't need a computational object model of the English language to send a text message -- while content-creation technologies depend heavily on models of certain kinds of content, i.e. Adobe software that models books, magazines, and posters, or Abjad's model of the musical score.
+In talking about the artistic potentials of new technologies, we should be
+careful to preserve and then challenge a distinction between content-creation
+technologies and communications technologies. Content-creation technologies
+depend heavily on computational models of certain realworld artifacts and their
+use. (We see that this is the case when we consider the model of a magazine and
+its pages provided by Adobe System''s InDesign or when we examine the model of
+musical score implemented in Abjad.) Communications technologies, by contrast,
+describe the format and transmission of information without any corresponding
+reliance on (or need for) a computational model of the meaning of the
+information transmitted: email and text messaging allow the rapid transmission
+of natural language utterances without any model the meaning of natural
+language whatever.
 
-If our knowledge of notated compositional practice in the first fifteen years of the twenty-first century gives us any useful information, neither content-creation technologies nor communications technologies of the last fifteen years have made composer-composer collaboration any more likely, probably because they adhere unthinkingly to a split between communication and content-creation technologies. It is, after all, precisely when collaboration occurs that our distinction begins to blur, as collaborators need to communicate with each other about the content they craft together. But new social media tools haven't embedded robust models of musical notation, and new content-creation tools haven't embedded utilities for version tracking or comparison, let alone basics like user profiles that lend transparency to group work, and collaboration between workers with the same skills remains hellishly redundant. It speaks volumes of the metaphor "too many cooks in the kitchen" that one can simply imagine two cooks to meet the metaphor's requirements, and it remains a major challenge of software systems to enable similarly skilled workers to collaborate on an artifact they each have been trained to create autonomously.
+[Having the underscored the distinction between content-creation technologies
+and communications technologies in this way, it is perhaps worth pointing out
+that the two categories of technology underwent periods of rapid expansion at
+different times.]
+
+If our knowledge of notated compositional practice in the first fifteen years
+of the present century gives us any useful information, neither the newest of
+content-creation technologies nor communications technologies have made
+composer-composer collaboration any more likely. And we observe that this may
+be due in large measure to the fact that so many of the new technologies adhere
+unthinkingly to a split between content creation and communications. It is,
+after all, precisely when collaboration occurs that our distinction begins to
+blur, as collaborators need to communicate shared content. But new social media
+tools haven''t embedded robust models of musical notation. Nor have new
+content-creation tools embedded utilities for version tracking or comparison,
+let alone basics like user profiles that lend transparency to group work. 
+Collaboration between workers with the same skills remains hellishly redundant.
+It speaks volumes of the metaphor "too many cooks in the kitchen" that one can
+simply imagine two cooks to meet the metaphor''s requirements. And it remains a
+major challenge of software systems to enable similarly skilled workers to
+collaborate on an artifact they each have been trained to create autonomously.
 
 # TODO: what probably makes sense next is to elaborate a bit of the difference
-# between "production technologies" and "communication technologies" . Do that
-# first. Then ask whether new production technologies (be they Finale,
+# between "content-creation technologies" and "communications technologies" .
+# Do that first. Then ask whether new production technologies (be they Finale,
 # Sibelius, Abjad, Illustrator, Photoshop, Logic or whatever) stand to make
 # composer-to-composer collaboration more likely. Then ask whether new
 # communications technologies (email, text, social media of all sorts ... and
@@ -93,11 +132,10 @@ If our knowledge of notated compositional practice in the first fifteen years of
 INSERT COLLABORATIVE COMPOSITION VIGNETTE #2 HERE.
 
 # AND THEN the next step is probably to ask whether either type of new
-# technology (production or communciation) stand to increase "traditional"
-# composerly collaboration (ie, not composer-to-composer but
-# composer-to-other-type-of-collaborator). The answer is probably that the new
-# production technologies probably help create new types of music but may not
-# increase the incidence of collaboration; and the second part of the answer is
-# probably that new communications technologies definitely increase the SPEED
-# (or rate) of traditional collaboration but probably only marginally increase
-# the INCIDENCE of collaboration.
+# technology (content-creation or communciation) stand to increase
+# "traditional" composerly collaboration. The answer is probably that the new
+# content-creation technologies probably help create new types of music but may
+# not increase the incidence of collaboration. The second part of the answer is
+# probably that new communications technologies increase the RATE of
+# traditional collaboration but probably only marginally increase the INCIDENCE
+# of traditional collaboration.
