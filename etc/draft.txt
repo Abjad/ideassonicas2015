@@ -18,30 +18,57 @@ music composition that celebrates the social aspects of collaborative work over
 and above the development of new technologies, whether in the arts or
 elsewhere.
 
-The three of us work as both composers and technologists every day: we write
-our music in ways that are deeply informed by practices drawn from the
-engineering disciplines and, at the same time, we bring the perspectives of our
-work as composers to the ways we develop and evaluate new music technologies.
-As lead developers of Abjad -- an object-oriented and open-source API for the
-formalized control of music notation that extends the widely used Python
-programming language and that has now been downloaded thousands of times by
-composers all around the world -- we have had years to reflect on the ways that
-computing technologies both help and hinder our work as artists. Our concerns
-range from the technical (how can the interface to a class be optimized to
-express the ways that rhythmic augmentation dots work in conjunction with
-differently shaped noteheads?) to the properly social (what are the ways that
-consumer computing technologies exert their alien pull on our work as artists
-and what strategies do we have in place to subvert these tendencies of new
-technology?). Here we turn our attention to the things that our work as
-composers and technologists tells us about the ways that the collaborative
-potential of music composition intersects the new communication and production
-technologies now avilable to us. Under what circumstances is music composition
-collaborative? Which of the new technoloiges that now surround us hold the
-potential to amplify the collaborative parts of our work as composers? And how
-do we navigate the differences between the technologies that help us produce
-our work and those that help us facilitate our increasingly global
-relationships with collaborators? These are the types of questions we consider
-below.
+The three of us work as both composers and technologists every day. We write
+our music in ways that are informed by practices drawn from software
+engineering. And we bring the perspectives of our work as composers to the way
+we develop the technologies we use in our own music and that we make available
+to other composers. As the primary developers of Abjad -- an open-source,
+object-oriented API for the formalized control of music notation that extends
+the widely used Python programming language and that has now been downloaded
+thousands of times by composers all around the world -- we have a position
+overlapping both the arts and engineering from which to reflect on the ways
+that computing technologies both help and hinder our work as artists. Our
+concerns range from the technical (how can the interface to a class be
+optimized to express the ways that rhythmic augmentation dots work in
+conjunction with differently shaped noteheads?) to the properly social (what
+are the ways that consumer computing technologies exert their alien pull on our
+work as artists and what strategies do we have in place to subvert these
+tendencies of new technology?). It is from this perspective that we pause to
+reflect on the nature of collaboration in music composition generally. When is
+music composition collaborative? Are we able to discern different types of
+composerly collaboration? And what does collaborative work in music composition
+look like?
+
+Note first that cases of composerly collaboration almost always bring the
+composer together not with other composers but with practitioners of allied
+disciplines. Opera is certainly one of the clearest (and most historically
+reified) examples. Opera has for centuries joined composer, conductor,
+librettist, singers and players with managers, marketers and a whole chain of
+financial functionaries necessary to underwrite the production as it is readied
+for stage. Choreographer, dancers and stage and lighting directors constitute
+other frequent additions to the process and, indeed, the number of roles that
+the production of opera either requires or allows can be multiplied
+indefinitely. Probabaly no opera has ever been anything other than
+collaborative and the composer has always occupied an important, and probabaly
+central, position in the collaboration. This joining together of practitioners
+from an array of arts (and, indeed, from disciplines even well outside the
+arts) points to the inherently transdisciplinary nature of operatic
+collaboration.
+
+And singer / songwriter pairs have for
+years toiled in moonlighting stints at hotels while knocking off song after
+song. But cases of two composers at the same desk working on the same score are
+almost unattested. The distinction is one of intradisciplinarity
+(composer-to-composer collaboration) as opposed to transdisciplinarity
+(composer-to-noncomposer collaboration). And we find striking in the extreme
+the commonplace presence of the latter at the almost complete expense of the
+former. Intradisciplinary composer-to-composer collaboration would seem
+attractive on its face for reasons of composers learning from each other,
+arriving at ideas iteratively through discussion and just for the simple
+pleasure of enjoying each others'' company. So what is it in composerly
+collaboration -- or in the social structures that mediate such collaboration --
+that so privileges transdisciplinarity at the expense of intradisciplinarity?
+
 
 Even though the ways that we each compose our music each makes heavy use of the
 tools of open-source development -- a number of different programming
@@ -74,25 +101,6 @@ available we would consider it immediately.
 
 [INSERT COLLABORATIVE COMPOSITION VIGNETTE #1 HERE.]
 
-We now pause briefly to consider the disciplinary orientation of compositional
-collaboration. Cases of composerly collaboration overwhelmingly bring together
-the composer not with other composers but with practitioners of the other arts.
-Opera joins composer, conductor, librettist, singers, players, impresario,
-critics, marketers and a whole chain of financial functionaries to underwrite
-the work as it is readied for stage. And singer / songwriter pairs have for
-years toiled in moonlighting stints at hotels while knocking off song after
-song. But cases of two composers at the same desk working on the same score are
-almost unattested. The distinction is one of intradisciplinarity
-(composer-to-composer collaboration) as opposed to transdisciplinarity
-(composer-to-noncomposer collaboration). And we find striking in the extreme
-the commonplace presence of the latter at the almost complete expense of the
-former. Intradisciplinary composer-to-composer collaboration would seem
-attractive on its face for reasons of composers learning from each other,
-arriving at ideas iteratively through discussion and just for the simple
-pleasure of enjoying each others'' company. So what is it in composerly
-collaboration -- or in the social structures that mediate such collaboration --
-that so privileges transdisciplinarity at the expense of intradisciplinarity?
-
 A number of answers are available. A first response appeals to a notion of
 integrity in the musical work originating in its creation: the musical work is
 inherently the responsibility of a single creative mind charged with the
@@ -106,9 +114,6 @@ that require lone authorship, previous centuries'' historical contexts have
 the very notion of the musical work itself) and we are yet to shake off the
 social wants and requirements of those previous times. We are sympathetic to
 this view.
-
-in our work assessing the roles of new technologies in future cases of
-collaboration.
 
 [INSERT COLLABORATIVE COMPOSITION VIGNETTE #2 HERE.]
 
@@ -168,3 +173,16 @@ INSERT COLLABORATIVE COMPOSITION VIGNETTE #2 HERE.
 # probably that new communications technologies increase the RATE of
 # traditional collaboration but probably only marginally increase the INCIDENCE
 # of traditional collaboration.
+
+### SCRAP COPY BELOW ###
+
+Here we turn our attention to the things that our work as composers and
+technologists tells us about the ways that the collaborative potential of music
+composition intersects the new content-creation and communication technologies
+now avilable to us. Under what circumstances is music composition
+collaborative? Which of the new technoloiges that now surround us hold the
+potential to amplify the collaborative parts of our work as composers? And how
+do we navigate the differences between the technologies that help us produce
+our work and those that help us facilitate our increasingly global
+relationships with collaborators? These are the types of questions we consider
+below.
