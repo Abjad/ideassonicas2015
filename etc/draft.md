@@ -151,3 +151,35 @@ INSERT COLLABORATIVE COMPOSITION VIGNETTE #2 HERE.
 # probably that new communications technologies increase the RATE of
 # traditional collaboration but probably only marginally increase the INCIDENCE
 # of traditional collaboration.
+
+Primary points:
+
+How are collaborative efforts at music composition impacted by the increasing
+availability of technology? And how is the relationship between composerly
+collaboration and technology likely to develop in the near future?
+
+Attempts at an answer depend on which technologies we mean when we ask the
+question and -- perhaps even more crucially -- on what we imagine composerly
+collaboration to be. In the paragraphs that follow we first reflect on the
+status of collaborative work in music composition. Then we turn our attention
+to the ways that the increasing availability of technology stands to impact
+this work. Our reflections will taxonomize collaborative work by disciplinary
+orientation and will classify technologies by both design and intended use.
+
+Supplied with 
+
+
+
+1. composerly collaboration can be divided into two types: transdisciplinary
+collaboration and intradisciplinary collaboration.
+
+2. new technologies can be divided into two types, too: content-creation
+technologies and communications technologies.
+
+3. how do we evaluate the ways that new technologies (whether designed for
+content creation or communications) affect composerly collaboration? as an
+alternative way of asking the question, we may ask what barriers to
+collaboration we encounter in our own work and then ask whether (and how) new
+technologies either reduce or increase such barriers to our own collaboration.
+
+4. 
