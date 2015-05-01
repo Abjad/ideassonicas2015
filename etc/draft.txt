@@ -77,20 +77,68 @@ intradisciplinary composition is not at all what we find when we reflect on
 composerly collaboration. What we find instead are overwhelmingly cases of
 transdisciplinarity in music composition.
 
-We're not sure why this is.
+We're not sure why this is the case. The historical and continued persistence
+of transciplinarity in preference to intradisciplinarity in compositional
+collaboration is at least something of a mystery. The baggage left over from
+Romanticism surely continues to prop up an outdated ideal of the (necessarily
+lone) composer-genius. But the shadow of Romanticism, no matter how it
+intersects the impenetrability of contemporary commodification, can't explain
+the norm of the lone composer embedded transcriplinarily in the production of
+the stage works of, say, the Renaissance or the Baroque. There's the very real
+possibility that composers have avoided composer-to-composer collaboration
+simply for reasons of not wanting to collaborate in such a way. The production
+of paintings and novels tends to exhibit the same pattern of lone authorship we
+observe in music composition. And so perhaps the preference for lone authorship
+is a creative preference that (whether the result of varied types of elitism or
+not) is not merely the baggage of Romanticism but in fact a a well-attested
+pattern in our creative history. We are probably forced to admit that this is
+at least partially the case.
 
-But cases of two composers at the same desk working on the same score are
-almost unattested. The distinction is one of intradisciplinarity
-(composer-to-composer collaboration) as opposed to transdisciplinarity
-(composer-to-noncomposer collaboration). And we find striking in the extreme
-the commonplace presence of the latter at the almost complete expense of the
-former. Intradisciplinary composer-to-composer collaboration would seem
-attractive on its face for reasons of composers learning from each other,
-arriving at ideas iteratively through discussion and just for the simple
-pleasure of enjoying each others'' company. So what is it in composerly
-collaboration -- or in the social structures that mediate such collaboration --
-that so privileges transdisciplinarity at the expense of intradisciplinarity?
+But in the present moment we feel that something substantial has changed.
+Decades after the (discourse of the) death of the author and the beginnings of
+the first attempts to take seriously emergent types of political pluralism, we
+detect a manifest desire on the part of very many creators in all media to
+interrogate the older patterns of production and try out newer ones in their
+place. In the domain of musical production we observe that producer-to-producer
+collaboration in the creation of electronica is not at all uncommon. Sending
+samples back and forth across the Internet has benefitted DJs and producers
+enormously. And indeed one of the collateral benefits of the rise of fixed
+media generally would appear to be cases of precisely this sort of
+intradiscipliarity for which we search mostly in vain in composition proper.
+And the persistence of the terms "composer" and "producer" as distinct from one
+another is telling. The culture continues to designate as composers those who
+author musical score destined for live performance while reserving the term
+producer for those working in the fixed-media creation of audio: celebrated
+cases of producer-to-producer intradisciplinarity are common enough while
+corresponding cases of composer-to-composer intradisciplinarity are still very
+much exceptions to the persistence of a cultural norm.
 
+Before leaving our reflections on the types of composerly collaboration and
+their distribution we would like to suggest one further -- and largely
+unacknolwedged -- reason that composer-to-composer collaboration may occur so
+infrequently. The reason has to do with the nature of music notation in itself.
+Our experience implementing Abjad as a type of object-oriented interface to the
+structure of musical score has convinced us of the complexity of modeling music
+notation as a coherent system. The fact that children can read and write music
+notation competently attests to the systematic nature of at least the primary
+features of music notation. But generalizing those systematic qualities into a
+coherent formal model is a much more complex task. What type of model best
+exhibits the understanding of music horizontally and vertically at the same
+time? What type of context must be modeled to spell accidentals correctly
+according to composers' manifestly different uses of pitch? Are measures to be
+modeled as containers of content or demarcators of musical time? What are the
+semantics of beams, ties and the other details of rhythmic notation in
+nonmetric musics? These are nontrivial considerations that have bedeviled the
+authors of the various music notation and composition systems now available.
+And so we offer the possibility that a largely unacknoweldged attenuator of
+intradisciplinary collaboration in music composition may be the difficulty of
+producing a computational model of music notation in itself. DJs and producers
+may find it as convenient as it is to send audio files over the Internet -- and
+then iteratively to modify and resend such files -- precisely because our
+current cultural understanding of what digital audio *is* is remarkably simpler
+than any corresponding model of music notation.
+
+###
 
 Even though the ways that we each compose our music each makes heavy use of the
 tools of open-source development -- a number of different programming
@@ -120,24 +168,6 @@ relationships easier to elaborate as we compose. This is not a posture that
 derives from an interest in technology. And, in fact, if a
 non-computationally-oriented way of solving our compositional problems were
 available we would consider it immediately.
-
-[INSERT COLLABORATIVE COMPOSITION VIGNETTE #1 HERE.]
-
-A number of answers are available. A first response appeals to a notion of
-integrity in the musical work originating in its creation: the musical work is
-inherently the responsibility of a single creative mind charged with the
-success or failure of the work in all its details. The argument presupposes its
-conclusion in its premise and relies, moreoever, on assumptions of creative
-genius deriving of some prior period; we reject the argument for these reasons.
-A second response would point to the social contexts surrounding compositional
-production: though there may be no factors internal to the work of composition
-that require lone authorship, previous centuries'' historical contexts have
-*insisted* on originary requirement of the musical work (and indeed, on even
-the very notion of the musical work itself) and we are yet to shake off the
-social wants and requirements of those previous times. We are sympathetic to
-this view.
-
-[INSERT COLLABORATIVE COMPOSITION VIGNETTE #2 HERE.]
 
 In talking about the artistic potentials of new technologies, we should be
 careful to preserve and then challenge a distinction between content-creation
