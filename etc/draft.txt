@@ -1,7 +1,6 @@
-Music composition and the technologies of working together: 
-towards an assessment of technology's impact on the structure and incidence of
+Music composition and the technologies of working together: towards an
+assessment of technology's impact on the structure and incidence of
 collaborative music composition
-===============================================================================
 
 How are collaborative efforts at music composition impacted by the increasing
 availability of technology? And how is the relationship between composerly
@@ -198,71 +197,55 @@ consumer experience in at least the rich economies precisely because they are
 not constrained in any such way. The affect of technological globalization
 results from communication and not from authorship.
 
-The implications for composerly collaboration are clear. If our knowledge of
+The implications for collaborative composition are clear. If our knowledge of
 notated compositional practice in the first fifteen years of the present
 century gives us any useful information, neither the newest of content-creation
 technologies nor the newest communications technologies have made
 composer-composer collaboration any more likely. Composers still find ourselves
 embedded in networks of collaboration that are not distinguished in any
 qualitatively different way than those of the past. Our collaborators are still
-conductors, performers, dancers, choreographers, writers, actors and all the
-rest. And we still find ourselves the lone node charged with writing music in
-the graph of the network of collaborators. These are very much still cases of
-transdisciplinary collaboration rather than composer-to-composer collaboration.
-But what is markedly different in the present moment is the rate at which we
-can communicate the details of work to our collaborators. Voice and video
-calling, email and messaging accelerate communication internal to composerly
-collaboration the same way they accelerate communication everywhere else. We
-are, in effect, primarily the beneficiaries of innovations in technologies that
-make no effort whatever to model our work as composers and as collaborative
-artists: our communication is faster than ever before but not because
-computational technologies model our work in any substantially better way. We
-are currently positioned at a moment where developments in the content-creation
-technologies we use to produce the artifacts specific to our practice advance
-only very slowly while the technologies we use to share the results of our work
-continue to improve incredibly rapidly.
+conductors, performers, dancers, choreographers and writers, even if we now add
+to the list installation artists, computer programmers, research scientists and
+political activists. We still find ourselves the lone node charged with
+composing music in the graph of our social network of collaborators. These are
+very much still cases of transdisciplinary collaboration rather than
+composer-to-composer collaboration. Collaboration between composers work as
+composers remains frustratingly redundant and it remains a major challenge of
+software systems to enable composers to collaborate on an artifact they each
+have been trained to create autonomously. But what is markedly different in the
+present moment is the rate at which we can communicate the details of work to
+our collaborators. Voice and video calling, email and messaging accelerate
+communication internal to collaborations in music composition the same way they
+accelerate communication everywhere else. We are, in effect, primarily the
+beneficiaries of innovations in technologies that make no effort whatever to
+model our work as composers and as collaborative artists: our communication is
+faster than ever before but not because computational technologies model our
+work in any substantially better way. We are currently positioned at a moment
+where developments in the content-creation technologies we use to produce the
+artifacts specific to our practice advance only very slowly while the
+technologies we use to share the results of our work continue to improve
+incredibly rapidly.
 
-### ADDITIONAL COPY BELOW ###
-#
-#And we observe that this may be due in large measure to the fact that so many
-#of the new technologies adhere unthinkingly to a split between content creation
-#and communications. It is, after all, precisely when collaboration occurs that
-#our distinction begins to blur, as collaborators need to communicate shared
-#content. But new social media tools haven''t embedded robust models of musical
-#notation. Nor have new content-creation tools embedded utilities for version
-#tracking or comparison, let alone basics like user profiles that lend
-#transparency to group work. Collaboration between workers with the same skills
-#remains hellishly redundant. It speaks volumes of the metaphor "too many cooks
-#in the kitchen" that one can simply imagine two cooks to meet the metaphor''s
-#requirements. And it remains a major challenge of software systems to enable
-#similarly skilled workers to collaborate on an artifact they each have been
-#trained to create autonomously.
-#
-#Even though the ways that we each compose our music each makes heavy use of the
-#tools of open-source development -- a number of different programming
-#languages, integrated development environments, hosted repositories and a
-#collection of unit and regression test practices, to name a few -- we are, in
-#part, technoskeptics. In our work as developers of Abjad we are deeply
-#committed to making the received cultural knowledge of more than 1000 years of
-#music notation amenable to computation. But we do this not because of an
-#interest in technology itself but as a way of helping streamline the sometimes
-#incredibly detailed work of writing music. Consider the case of the composer
-#realizing relatively late in the compositional process that hundreds of events
-#in a complex musical texture must change in some systematic way as a result of
-#a deeper listening to the inner ear and a developing understanding of the piece
-#as it is being composed. Making such changes on paper is at least tedious and
-#at worst an active deterrent to bettering the music. The situation with the
-#available computer-based music notation programs is hardly any better. What is
-#needed instead is a way systematically -- and indeed even syntactically -- to
-#model the relationships between different events in even extremely complex
-#musical score such that all events related in a musically meaningful way can be
-#changed at once in response to the realizations (or imaginings) of the
-#composer. This is one of the primary design imperatives of Abjad. But note that
-#this sort of structural approach to modeling the relationships between entities
-#in musical score derives not from new technologies but from old compositional
-#problems: we chose to model our music with code because code helps clarify
-#complex musical relationships in our music and thereby make musical
-#relationships easier to elaborate as we compose. This is not a posture that
-#derives from an interest in technology. And, in fact, if a
-#non-computationally-oriented way of solving our compositional problems were
-#available we would consider it immediately.
+The different ways that we each compose our music make heavy use of a
+collection of programming languages and development environments managed with
+tools for version control, unit and regression tests and all the other
+accoutrements of open-source development. But even allowing for the collection
+of technologies we use to help us compose, we are, in part, technoskeptics. In
+our work as developers of Abjad we are deeply committed to making available a
+model of musical score amenable to computation. But we do this not because of
+any interest in technology itself. We develop and publish our work on Abjad as
+a way of helping streamline the sometimes incredibly detailed work of writing
+our own music. When we realize late in the compositional process that hundreds
+of events in a complex musical texture must change in some systematic way as a
+result of deeper listening and a developing understanding of the piece we are
+composing, we understand this as one of the proper places for the assistance of
+computation in the work of writing music. And we believe that the problems we
+solve computationaly should be freely available to composers everywhere to
+faciliate both the lone and collaborative work of music composition.
+
+But note that this sort of structural approach to modeling the relationships
+between entities in musical score derives not from new technologies but from
+old compositional problems: we chose to model our music with code because code
+helps clarify complex musical relationships in our music. This is not a posture
+that derives from an interest in technology but a understanding that comes from
+the joys and difficulties of composing music.
