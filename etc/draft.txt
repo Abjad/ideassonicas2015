@@ -2,6 +2,8 @@ Music composition and the technologies of working together: towards an
 assessment of technology's impact on the structure and incidence of
 collaborative music composition
 
+By Trevor Bača, Jeffrey Treviño & Josiah Oberholtzer
+
 How are collaborative efforts at music composition impacted by the increasing
 availability of technology? And how is the relationship between composerly
 collaboration and technology likely to develop in the future?
@@ -103,16 +105,18 @@ interrogate the older patterns of production and try out newer ones in their
 place. In the domain of musical production we observe that producer-to-producer
 collaboration in the creation of electronica is not at all uncommon. Sending
 samples back and forth across the Internet has benefited DJs and producers
-enormously. And indeed one of the collateral benefits of the rise of fixed
-media generally would appear to be cases of precisely this sort of
-intradisciplinarity for which we search mostly in vain in composition proper.
-And the persistence of the terms "composer" and "producer" as distinct from one
-another is telling. The culture continues to designate as composers those who
-author musical score destined for live performance while reserving the term
-producer for those working in the fixed-media creation of audio: celebrated
-cases of producer-to-producer intradisciplinarity are common enough while
-corresponding cases of composer-to-composer intradisciplinarity are still very
-much exceptions to the persistence of a cultural norm.
+enormously. And not only samples but indeed working sessions for entire tracks
+of music or even films can and do cross the globe in seconds for changes at the
+hands of different digital producers working together. One of the collateral
+benefits of the rise of fixed media generally would appear to be cases of
+precisely this sort of intradisciplinarity for which we search mostly in vain
+in composition proper. The persistence of the terms "composer" and "producer"
+as distinct from one another is telling. The culture continues to designate as
+composers those who author musical score destined for live performance while
+reserving the term producer for those working in the fixed-media creation of
+audio: celebrated cases of producer-to-producer intradisciplinarity are common
+enough while corresponding cases of composer-to-composer intradisciplinarity
+are still very much exceptions to the persistence of a cultural norm.
 
 Before leaving our reflections on the types of composerly collaboration and
 their distribution we would like to suggest one further -- and largely
